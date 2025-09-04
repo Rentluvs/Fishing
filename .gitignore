@@ -1,0 +1,49 @@
+# ====================================================
+# Node.js dependencies
+node_modules/
+
+# ====================================================
+# Build output (frontend & backend)
+dist/
+build/
+.cache/
+.temp/
+
+# ====================================================
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ====================================================
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# ====================================================
+# Test coverage
+coverage/
+*.lcov
+
+# ====================================================
+# IDE / Editor config
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ====================================================
+# System files
+.DS_Store
+Thumbs.db
+
+# ====================================================
+# Optional lock files (if team not comit)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
