@@ -245,7 +245,7 @@ Dữ liệu demo sẽ được tự động tạo khi khởi động ứng dụn
 
 ---
 
-**Phát triển với ❤️ bởi Fish Management System Team**
+**Phát triển với ❤️ bởi THANHTD**
 =======
 # Fishing
 Quản lý mua bán cá cảnh
